@@ -1,5 +1,6 @@
 # iterm2 (default settings; font size 20)
 # key-settings [Natural keybindings in iterm2](https://apple.stackexchange.com/a/293988)
+# config file: `~/Default-iterm2.json`
 
 # brew `eval $(/opt/homebrew/bin/brew shellenv)` [Ref](https://apple.stackexchange.com/a/413207)
 
@@ -9,8 +10,9 @@
 # config file: `~/.tmux.conf`
 # alt key remap for 'tpm' uninstall, [Ref](https://github.com/tmux-plugins/tpm/issues/70)
 
+# oh-my-zsh
 # config file: `~/.zshrc`
-# oh-my-zsh (eastwood theme; `.oh-my-zsh/themes/eastwood.zsh-theme` custom file)
+# theme-file: `.oh-my-zsh/themes/custom-eastwood.zsh-theme`
 # Terminal shortcuts [zsh-keyboard-shortucts.md](https://gist.github.com/mkfares/e23eb57d943145eb543d97ac7ef05732)
 
 ## Mac Apps
