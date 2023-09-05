@@ -22,6 +22,10 @@ Contains all dotfiles and system prefs
 link sublime if `$ subl` command doesn't work
 * `$ ln -sv "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl`, ([Ref](https://gist.github.com/martinbuberl/5823ed247d279d1a2d06))
 
+### zsh
+* comes by default in MacOS now; no need to install
+* config file: `~/.zshrc`
+
 ### Mac Apps
 * rectangle app: (snap windows) https://rectangleapp.com/
 * maccy: (clipboard manager) https://maccy.app/
