@@ -5,6 +5,10 @@
 # prompt basics video: https://www.youtube.com/watch?v=p4h-5B8k2NY
 PROMPT="%F{2}[%n@%m]%f%F{74}[%~]%f$ "
 
+# for LINUX os, uncomment the following
+# reference: https://phoenixnap.com/kb/change-bash-prompt-linux
+# PS1="\e[0;32m[\\u@\h]\e[0m\e[0;36m[\\w]\\$ \e[0m"
+
 
 # to solve issue: brew is not recognized
 eval $(/opt/homebrew/bin/brew shellenv)
