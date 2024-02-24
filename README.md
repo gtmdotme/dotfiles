@@ -30,3 +30,8 @@ link sublime if `$ subl` command doesn't work
 * rectangle app: (snap windows) https://rectangleapp.com/
 * maccy: (clipboard manager) https://maccy.app/
 * stretchly: (breaks) https://hovancik.net/stretchly/
+
+
+### TODO
+- [ ] zoxide
+- [ ] .gitconfig
