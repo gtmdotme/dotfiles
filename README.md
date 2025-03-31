@@ -6,6 +6,9 @@ Contains all dotfiles and system prefs
 ### iterm2
 * load preferences from `~/.iterm2` in tmux settings ([Ref](https://shyr.io/blog/sync-iterm2-configs))
 
+### Fuzzy Finder
+* install fuzzy finder (`ctrl + u` for fuzzy search) using github repo ([Ref](https://github.com/junegunn/fzf/blob/master/README.md#using-git))
+
 ### JetBrains font
 * install nerd font via: https://www.geekbits.io/how-to-install-nerd-fonts-on-mac/
 * `$ brew tap homebrew/cask-fonts`
